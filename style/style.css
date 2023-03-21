@@ -97,6 +97,9 @@
   margin-top: 20px;
   border-right: 1px solid red;
 }
+.author-name {
+  margin-left: 20px;
+}
 .author-img {
   width: 100px;
   height: 100px;
