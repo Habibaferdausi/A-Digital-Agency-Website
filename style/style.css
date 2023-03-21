@@ -86,3 +86,45 @@
   width: 50%;
   padding: 10px;
 }
+.author-details {
+  display: flex;
+  align-items: center;
+}
+.author-img-desc {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border-right: 1px solid red;
+}
+.author-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+.more-details {
+  padding: 20px;
+}
+.service-up {
+  display: flex;
+}
+.service {
+  padding: 10px;
+  background-color: white;
+  box-shadow: 4px 4px 8px gray;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  color: black;
+  border-radius: 10px;
+  margin: 5px;
+}
+.service-logo {
+  width: 50%;
+  padding-bottom: 10px;
+}
+.service-down {
+  display: flex;
+}
+.service-left-container {
+  width: 50%;
+}
