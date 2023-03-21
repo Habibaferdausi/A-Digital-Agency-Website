@@ -94,6 +94,7 @@
   display: flex;
   align-items: center;
   padding: 20px;
+  margin-top: 20px;
   border-right: 1px solid red;
 }
 .author-img {
