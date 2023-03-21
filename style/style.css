@@ -5,13 +5,14 @@
 .nav-container {
   display: flex;
   padding: 20px;
-  justify-content: space-around;
+  justify-content: space-between;
   background-color: #9b9898;
   color: white;
 }
 .items {
   display: flex;
   list-style: none;
+  margin-right: 50px;
 }
 .item {
   font-size: 22px;
