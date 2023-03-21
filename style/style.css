@@ -106,7 +106,11 @@
   border-radius: 50px;
 }
 .more-details {
-  padding: 20px;
+  background-color: red;
+  color: white;
+  padding: 8px;
+  margin-left: 10px;
+  border-radius: 15px;
 }
 .service-up {
   display: flex;
